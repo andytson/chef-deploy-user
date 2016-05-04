@@ -1,0 +1,6 @@
+{
+  "id": "deploy",
+  "groups": ["deploy"],
+  "ssh_private_key": "-----BEGIN RSA PRIVATE KEY----- ...",
+  "ssh_public_key": "ssh-rsa AAAA... comment"
+}
